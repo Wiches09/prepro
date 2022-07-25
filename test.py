@@ -10,4 +10,5 @@ def main():
             print("%.2f" %(4.00-grade))
         elif grade >= 0:
             print("I'm so sad.")
+
 main()
